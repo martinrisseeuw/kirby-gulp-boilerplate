@@ -1,0 +1,10 @@
+title: Home
+icon: home
+pages: false
+fields:
+  title: title
+  description: description
+  text: text
+  line: line-a
+  seotitle: seo-title
+  seodescription: seo-description
